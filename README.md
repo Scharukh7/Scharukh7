@@ -23,7 +23,7 @@ Since February 2023, I have joined Xander's talent to pursue my career as a Soft
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
-| **[Computer Vision][1]**      | User playing Rock, Paper, Scissor game with the CPU      | Python
+| **[Computer Vision][1]**      | User playing Rock, Paper, Scissor game with the CPU      | Python, Webcam
 | **[Web Scraping][2]**       | gathering information of premier league players and storing on AWS | Python, Selenium, MySQL, AWS, Docker
 | **[Marketplace Ranking Recommendation System][3]**    | Protoype of Facebook's marketplace system using Machine Learning  | Python, CNN, Tensorflow, Pytorch, AWS, Docker, Kubernetes, RestAPI   
 
