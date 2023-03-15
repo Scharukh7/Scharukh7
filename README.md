@@ -6,7 +6,7 @@
 - 🥅  2023 Goals: Maximise my learning to the max, contribute to new projects
 - ⚡  Fun facts: I enjoy going to the gym 🏋️ research on AI 🥁 playing video games 🎮
 
-After graduating from University, I've been mainly focused on Artificial Intelligence, since then I have been doing research on AI and doing personal projects related to AI. In Feb 2021, I joined a Bootcamp where I had more exposure to AI and Data Engineering projects. I completed the bootcamp in September and since then have been collaborating on projects.
+After graduating from University, I've been mainly focused on Artificial Intelligence, since then I have been doing research on AI and doing personal projects related to AI. In Feb 2022, I joined a Bootcamp where I had more exposure to AI and Data Engineering projects. I completed the bootcamp in September and since then have been collaborating on projects.
 
 Since February 2023, I have joined Xander's talent to pursue my career as a Software Engineer.
 
