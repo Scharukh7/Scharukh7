@@ -3,7 +3,7 @@
 - 🌱  Graduated with Computing for Robotic Systems BSc Hons (July2021)
 - 🔭  I’m currently working as a Software Engineer at [Xander Talent](https://www.xandertalent.com/)
 - 🌱  I'm currently learning Javascript, Scala, React and Django
-- ⚡  I enjoy doing projects related to Machine Learning and DAta Science
+- ⚡  I enjoy doing projects related to Machine Learning and Data Science
 - 🥅  2023 Goals: Maximise my learning to the max, contribute to new projects
 - ⚡  Fun facts: I enjoy going to the gym 🏋️ research on AI 🥁 playing video games 🎮
 
