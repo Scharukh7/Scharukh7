@@ -40,7 +40,7 @@ Since February 2023, I have joined Xander Talent to pursue my career as a Softwa
 
 ## Connect with me:
 
-<a href="https://linkedin.com/in/shahrukh-shah-8b555a171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="courtney-stow-178b8696" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/shahrukh-shah-8b555a171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="shahrukh-shah-8b555a171" height="40" width="40" /></a>
 <br/>
 
 
