@@ -1,6 +1,6 @@
 ### Hi there, I'm Shahrukh 👋
 
-- 🌱  Graduated with Computing for Robotic Systems BSc Hons (July2021)
+- 🌱  Graduated with Computing for Robotic Systems BSc Hons 
 - 🌱  I'm currently improving my ML skills by working on real-world projects.
 - ⚡  I enjoy doing projects related to Machine Learning and Data Science
 - 🥅  2023 Goals: Maximise my learning to the max, contribute to new projects
