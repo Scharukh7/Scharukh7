@@ -8,7 +8,7 @@
 
 After graduating from University, I've been mainly focused on Artificial Intelligence, since then I have been doing research on AI and doing personal projects related to AI. In Feb 2022, I joined a Bootcamp where I had more exposure to Data Engineering and Machine Learning projects. I completed the bootcamp in September and since then have been collaborating on projects.
 
-Since February 2023, I have joined Xander Talent to pursue my career as a Software Engineer.
+
 
 ##
 <br/>
