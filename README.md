@@ -3,7 +3,7 @@
 - 🌱  Graduated with Computing for Robotic Systems BSc Hons 
 - 🌱  I'm currently improving my ML skills by working on real-world projects.
 - ⚡  I enjoy doing projects related to Machine Learning and Data Science
-- 🥅  2024 Goals: Maximise my learning to the max, contribute to new projects
+- 🥅  2026 Goals: Maximise my learning to the max, contribute to new projects
 - ⚡  Fun facts: I enjoy going to the gym 🏋️ research on AI 🥁 playing video games 🎮
 
 After graduating from University, I've been mainly focused on Artificial Intelligence, since then I have been doing research on AI and doing personal projects related to AI.
